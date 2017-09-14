@@ -1,6 +1,6 @@
 # 科学上网指南-使用篇（客户端）
 ```JSON
-{"Author":"yanwei", "At":"Shanghai", "LastUpdate":"2017-09-09"}
+{"Author":"yanwei", "At":"Shanghai", "LastUpdate":"2017-09-14"}
 ```
 
 ## 说明
@@ -17,15 +17,15 @@ Shadowsocks服务器的IP、端口、密码、加密方式等。
 ## 设置
 以Mac平台为例。点击顶部菜单栏中的“小飞机”图标：
 
-![menu-1](Shadowsocks-NG-Menu-1.png)
+![menu-1](shadowsocks-ng-menu-1.png)
 
 点击“Server Preferences...”：
 
-![server](Shadowsocks-NG-Server.png)
+![server](shadowsocks-ng-server.png)
 
 注意菜单栏中的选择：
 
-![menu-2](Shadowsocks-NG-Menu-2.png)
+![menu-2](shadowsocks-ng-menu-2.png)
 
 ## 最后
 好了，现在打开Chrome或你常用的浏览器，就可以愉快的上网啦。

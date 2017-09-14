@@ -1,6 +1,6 @@
 # 科学上网指南-服务器篇
 ```JSON
-{"Author":"yanwei", "At":"Shanghai", "LastUpdate":"2017-09-09"}
+{"Author":"yanwei", "At":"Shanghai", "LastUpdate":"2017-09-14"}
 ```
 
 ## 说明
