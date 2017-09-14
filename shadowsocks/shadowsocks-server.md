@@ -45,14 +45,14 @@ $ sudo vi /etc/shadowsocks.json
 
 ```
 {
-	"server":"0.0.0.0",
-	"local_address": "127.0.0.1",
-	"local_port":1080,
-	"server_port":7777,
-	"password":"mypassword",
-	"timeout":300,
-	"method":"aes-256-cfb",
-	"fast_open":false
+    "server":"0.0.0.0",
+    "local_address": "127.0.0.1",
+    "local_port":1080,
+    "server_port":7777,
+    "password":"mypassword",
+    "timeout":300,
+    "method":"aes-256-cfb",
+    "fast_open":false
 }
 ```
 
@@ -60,16 +60,16 @@ $ sudo vi /etc/shadowsocks.json
 
 ```
 {
-	"server":"0.0.0.0",
-	"local_address":"127.0.0.1",
-	"local_port":1080,
-	"port_password":{
-		“7777”:"password1"
-		“8888”:"password2"
-	},
-   	"timeout":300,
-   	"method":"aes-256-cfb",
-	"fast_open":false
+    "server":"0.0.0.0",
+    "local_address":"127.0.0.1",
+    "local_port":1080,
+    "port_password":{
+        “7777”:"password1"
+        “8888”:"password2"
+    },
+    "timeout":300,
+    "method":"aes-256-cfb",
+    "fast_open":false
 }
 ```
 
