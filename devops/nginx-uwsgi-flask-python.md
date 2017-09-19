@@ -95,14 +95,14 @@ py-autoreload = 1
 
 ```
 server {
-	listen 80;
-	root /var/www/html/test/;
-	server_name test.com www.test.com;
+    listen 80;
+    root /var/www/html/test/;
+    server_name test.com www.test.com;
 
-	location / {
-    	include			uwsgi_params;
-    	uwsgi_pass 		127.0.0.1:8080;
-	}
+    location / {
+        include     uwsgi_params;
+        uwsgi_pass  127.0.0.1:8080;
+    }
 }
 ```
 
