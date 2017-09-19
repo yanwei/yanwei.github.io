@@ -1,5 +1,5 @@
 # 科学上网指南-使用篇（客户端）
-```JSON
+```json
 {"Author":"yanwei", "At":"Shanghai", "LastUpdate":"2017-09-14"}
 ```
 
@@ -12,7 +12,9 @@ Shadowsocks服务器的IP、端口、密码、加密方式等。
 ## 安装Shadowsocks客户端
 点击[这里](https://shadowsocks.org/en/download/clients.html)下载最新的客户端并进行安装。注意选择对应平台的版本。
 
-这一步基本上没有难度，无论是Windows还是Mac，按常规方法安装就行了。如果出现无法下载的情况，可能需要请能够翻墙的朋友帮个忙。
+无论是Windows还是Mac，这一步基本没有难度，按常规方法安装就行。如果出现无法下载的情况，可能需要请能够翻墙的朋友帮个忙。
+
+iOS上推荐Shadowrocket，App Store可以直接下载。Android稍微麻烦些，官方的链接跳转到Google Play Store，国内无法下载。想办法直接搜索下载shadowsocks apk安装包即可。
 
 ## 设置
 以Mac平台为例。点击顶部菜单栏中的“小飞机”图标：

@@ -1,5 +1,5 @@
 # 科学上网指南-服务器篇
-```JSON
+```json
 {"Author":"yanwei", "At":"Shanghai", "LastUpdate":"2017-09-14"}
 ```
 
@@ -64,14 +64,17 @@ $ sudo vi /etc/shadowsocks.json
     "local_address":"127.0.0.1",
     "local_port":1080,
     "port_password":{
-        “7777”:"password1"
-        “8888”:"password2"
+        "7777":"password1",
+        "8888":"password2"
     },
     "timeout":300,
     "method":"aes-256-cfb",
     "fast_open":false
 }
 ```
+
+## 防火墙
+阿里云和AWS都有安全组策略，不要忘记把上一步配置的端口加到安全组的公网入站规则中去。Shadowsocks用的是TCP连接，配置的时候注意下。具体操作方式参考两个平台的文档。
 
 ## 启动和停止Shadowsocks服务
 ```
