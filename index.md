@@ -1,4 +1,6 @@
 ## September, 2017
+[Python3中 global 和 nonlocal 的区别](python/global-nonlocal.md)
+
 [Nginx + uWSGI + Flask + Python 简单上手指南](devops/nginx-uwsgi-flask-python.md)
 
 [给“得到”App的一些产品建议](product/advice-for-dedao-app.md)
