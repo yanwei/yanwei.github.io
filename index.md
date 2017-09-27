@@ -1,6 +1,8 @@
 ## September, 2017
 <!--[w3school](html/w3school.html)-->
 
+[Python函数默认参数的坑](devops/python/function-default-argument.md)
+
 [Python中的 try / except / else / finally 语句](devops/python/try-except-else-finally.md)
 
 [给“得到”App的一些产品建议](product/advice-for-dedao-app.md)
