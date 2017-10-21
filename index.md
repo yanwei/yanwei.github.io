@@ -1,15 +1,21 @@
-## September, 2017
 <!--[w3school](html/w3school.html)-->
+# 产品
+
+[给“得到”App的一些产品建议](product/advice-for-dedao-app.md)
+
+[App账号体系设计和注册登录流程](product/app-account-register-login.md)
+
+# Python
 
 [Python函数默认参数的坑](devops/python/function-default-argument.md)
 
 [Python中的 try / except / else / finally 语句](devops/python/try-except-else-finally.md)
 
-[给“得到”App的一些产品建议](product/advice-for-dedao-app.md)
-
 [Python3中 global 和 nonlocal 的区别](devops/python/global-nonlocal.md)
 
 [Nginx + uWSGI + Flask + Python 简单上手指南](devops/python/nginx-uwsgi-flask-python.md)
+
+# 其他
 
 [如何吹口哨（转）](misc/how-to-whistle.md)
 
@@ -18,8 +24,6 @@
 [科学上网指南-使用篇（客户端）](shadowsocks/shadowsocks-client.md)
 
 <!--
-[App账号体系设计和注册登录流程](product/app-account-register-login.md)
-
 Todo: 
 [2017年阅读清单](education/books-2017.md)
 [适合小团队的产品管理和研发流程]()

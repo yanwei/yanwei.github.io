@@ -1,6 +1,6 @@
 # App账号体系设计和注册登录流程
 ```json
-{"Author":"yanwei", "At":"Shanghai", "LastUpdate":"2017-09-24"}
+{"Author":"yanwei", "LastUpdate":"2017-10-12"}
 ```
 
 > 摘要：
