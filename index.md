@@ -1,16 +1,8 @@
-<!--[w3school](html/w3school.html)-->
-
-# Dev
+# DevOps
 
 [Mac上升级XCode后Clion项目编译失败](devops/clion-compile-error-on-mac.md)
 
-# 产品
-
-[给“得到”App的一些产品建议](product/advice-for-dedao-app.md)
-
-[App账号体系设计和注册登录流程](product/app-account-register-login.md)
-
-# Python
+## Python
 
 [Python函数默认参数的坑](devops/python/function-default-argument.md)
 
@@ -20,13 +12,25 @@
 
 [Nginx + uWSGI + Flask + Python 简单上手指南](devops/python/nginx-uwsgi-flask-python.md)
 
+# 产品
+
+[给“得到”App的一些产品建议](product/advice-for-dedao-app.md)
+
+<!--[App账号体系设计和注册登录流程](product/app-account-register-login.md)
+-->
 # 其他
 
-[如何吹口哨（转）](misc/how-to-whistle.md)
+[【转】如何写商业计划书(BP)](misc/how-to-write-bp.md)
+
+[【转】如何吹口哨](misc/how-to-whistle.md)
 
 [科学上网指南-服务器篇](shadowsocks/shadowsocks-server.md)
 
 [科学上网指南-使用篇（客户端）](shadowsocks/shadowsocks-client.md)
+
+[Ideas](ideas/index.md)
+
+<!--[w3school](html/w3school.html)-->
 
 <!--
 Todo: 
