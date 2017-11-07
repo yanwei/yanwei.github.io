@@ -1,5 +1,7 @@
 # Mac上升级XCode后CLion项目编译失败
 
+<link rel="stylesheet" type="text/css" href="../auto-number-title.css" >
+
 ```json
 {"Author":"yanwei", "LastUpdate":"2017-11-01"}
 ```

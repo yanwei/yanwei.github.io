@@ -1,8 +1,8 @@
-# DevOps
+## DevOps
 
 [Mac上升级XCode后Clion项目编译失败](devops/clion-compile-error-on-mac.md)
 
-## Python
+### Python
 
 [Python函数默认参数的坑](devops/python/function-default-argument.md)
 
@@ -12,7 +12,7 @@
 
 [Nginx + uWSGI + Flask + Python 简单上手指南](devops/python/nginx-uwsgi-flask-python.md)
 
-# 产品
+## 产品
 
 [给“得到”App的一些产品建议](product/advice-for-dedao-app.md)
 

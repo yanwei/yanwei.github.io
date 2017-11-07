@@ -1,4 +1,7 @@
 # 科学上网指南-服务器篇
+
+<link rel="stylesheet" type="text/css" href="../auto-number-title.css" >
+
 ```json
 {"Author":"yanwei", "At":"Shanghai", "LastUpdate":"2017-09-14"}
 ```
