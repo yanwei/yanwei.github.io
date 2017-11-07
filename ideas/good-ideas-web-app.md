@@ -1,4 +1,4 @@
-# “疯狂的点子”网站和App
+# 疯狂的点子
 
 ```json
 {"Author":"yanwei", "LastUpdate":"2017-11-07"}
