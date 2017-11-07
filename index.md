@@ -1,6 +1,6 @@
 ## DevOps
 
-[Mac上升级XCode后Clion项目编译失败](devops/clion-compile-error-on-mac.md)
+2017.11.01 [Mac上升级XCode后Clion项目编译失败](devops/clion-compile-error-on-mac.md)
 
 ### Python
 
@@ -20,7 +20,9 @@
 -->
 # 其他
 
-[【转】如何写商业计划书(BP)](misc/how-to-write-bp.md)
+2017.11.07 [MarkDown标题自动添加编号](misc/markdown-auto-number-title.md)
+
+2017.11.07 [【转】如何写商业计划书(BP)](misc/how-to-write-bp.md)
 
 [【转】如何吹口哨](misc/how-to-whistle.md)
 
@@ -28,7 +30,7 @@
 
 [科学上网指南-使用篇（客户端）](shadowsocks/shadowsocks-client.md)
 
-[Ideas](ideas/index.md)
+2017.11.07 [Ideas](ideas/index.md)
 
 <!--[w3school](html/w3school.html)-->
 

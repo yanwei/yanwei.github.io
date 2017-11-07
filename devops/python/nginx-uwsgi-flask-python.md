@@ -1,6 +1,6 @@
 # Nginx + uWSGI + Flask + Python 简单上手指南
 
-<link rel="stylesheet" type="text/css" href="../../auto-number-title.css" >
+<link rel="stylesheet" type="text/css" href="../../auto-number-title.css" />
 
 ```json
 {"Author":"yanwei", "At":"Shanghai", "LastUpdate":"2017-09-19"}
