@@ -18,7 +18,10 @@
 
 <!--[App账号体系设计和注册登录流程](product/app-account-register-login.md)
 -->
-# 其他
+
+## [Ideas](ideas/index.md)
+
+## 其他
 
 2017.11.07 [MarkDown标题自动添加编号](misc/markdown-auto-number-title.md)
 
@@ -29,8 +32,6 @@
 [科学上网指南-服务器篇](shadowsocks/shadowsocks-server.md)
 
 [科学上网指南-使用篇（客户端）](shadowsocks/shadowsocks-client.md)
-
-2017.11.07 [Ideas](ideas/index.md)
 
 <!--[w3school](html/w3school.html)-->
 
