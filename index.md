@@ -19,8 +19,6 @@
 <!--[App账号体系设计和注册登录流程](product/app-account-register-login.md)
 -->
 
-## [Ideas](ideas/index.md)
-
 ## 其他
 
 2017.11.07 [MarkDown标题自动添加编号](misc/markdown-auto-number-title.md)
@@ -49,6 +47,7 @@ Todo:
 -->
 
 <hr>
+
 **About the Author:**
 
 ```json
