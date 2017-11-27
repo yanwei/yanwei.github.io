@@ -10,17 +10,17 @@
 
 2017-11-27 [pip更新全部packages](devops/python/pip-upgrade-all.md)
 
-[Python函数默认参数的坑](devops/python/function-default-argument.md)
+2017-09-28 [Python函数默认参数的坑](devops/python/function-default-argument.md)
 
-[Python中的 try / except / else / finally 语句](devops/python/try-except-else-finally.md)
+2017-09-27 [Python中的 try / except / else / finally 语句](devops/python/try-except-else-finally.md)
 
-[Python3中 global 和 nonlocal 的区别](devops/python/global-nonlocal.md)
+2017-09-25 [Python3中 global 和 nonlocal 的区别](devops/python/global-nonlocal.md)
 
-[Nginx + uWSGI + Flask + Python 简单上手指南](devops/python/nginx-uwsgi-flask-python.md)
+2017-09-19 [Nginx + uWSGI + Flask + Python 简单上手指南](devops/python/nginx-uwsgi-flask-python.md)
 
 ## 产品
 
-[给“得到”App的一些产品建议](product/advice-for-dedao-app.md)
+2017-09-25 [给“得到”App的一些产品建议](product/advice-for-dedao-app.md)
 
 <!--Todo：[App账号体系设计和注册登录流程](product/app-account-register-login.md)-->
 
@@ -36,15 +36,14 @@
 
 2017-11-07 [【转】如何写商业计划书(BP)](misc/how-to-write-bp.md)
 
+2017-09-14 [科学上网指南-服务器篇](shadowsocks/shadowsocks-server.md)
+
+2017-09-14 [科学上网指南-使用篇（客户端）](shadowsocks/shadowsocks-client.md)
+
 [【转】如何吹口哨](misc/how-to-whistle.md)
 
-[科学上网指南-服务器篇](shadowsocks/shadowsocks-server.md)
-
-[科学上网指南-使用篇（客户端）](shadowsocks/shadowsocks-client.md)
-
-[w3school](html/w3school.html)
-
 <!--
+[w3school](html/w3school.html)
 [一个纯软件开发者的硬件之路](product/software-to-hardware.md)
 [2017年阅读清单](education/books-2017.md)
 [适合小团队的产品管理和研发流程]()
