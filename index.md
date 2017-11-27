@@ -1,12 +1,14 @@
 ## DevOps
 
-2017-11-17 [Mac上的一些网络加速技巧](devops/mac-network-speedup.md)
+2017-11-27 [Mac上的一些网络加速技巧](devops/mac-network-speedup.md)
 
 2017-11-23 [Ubuntu和Mac上开启VIM语法高亮](devops/vim-syntax-highlight.md)
 
 2017-11-01 [Mac上升级XCode后Clion项目编译失败](devops/clion-compile-error-on-mac.md)
 
 ### Python
+
+2017-11-27 [pip更新全部packages](devops/python/pip-upgrade-all.md)
 
 [Python函数默认参数的坑](devops/python/function-default-argument.md)
 
