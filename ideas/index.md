@@ -1,5 +1,7 @@
 # Ideas
 
+2017-11-18 Todo：[儿童激励App](kids-stimulate-app.md)
+
 2017-11-16 [输液计时器](transfusion-timer.md)
 
 2017-11-13 [可控制用量的一次性盐糖罐子](single-use-salt-sugar-jar.md)

@@ -1,6 +1,10 @@
 ## DevOps
 
-2017.11.01 [Mac上升级XCode后Clion项目编译失败](devops/clion-compile-error-on-mac.md)
+2017-11-17 [Mac上的一些网络加速技巧](devops/mac-network-speedup.md)
+
+2017-11-23 [Ubuntu和Mac上开启VIM语法高亮](devops/vim-syntax-highlight.md)
+
+2017-11-01 [Mac上升级XCode后Clion项目编译失败](devops/clion-compile-error-on-mac.md)
 
 ### Python
 
@@ -16,14 +20,19 @@
 
 [给“得到”App的一些产品建议](product/advice-for-dedao-app.md)
 
-<!--[App账号体系设计和注册登录流程](product/app-account-register-login.md)
+<!--Todo：[App账号体系设计和注册登录流程](product/app-account-register-login.md)-->
+
+## 教育
+
+<!--
+[少儿英语教材研究]()
 -->
 
 ## 其他
 
-2017.11.07 [MarkDown标题自动添加编号](misc/markdown-auto-number-title.md)
+2017-11-07 [MarkDown标题自动添加编号](misc/markdown-auto-number-title.md)
 
-2017.11.07 [【转】如何写商业计划书(BP)](misc/how-to-write-bp.md)
+2017-11-07 [【转】如何写商业计划书(BP)](misc/how-to-write-bp.md)
 
 [【转】如何吹口哨](misc/how-to-whistle.md)
 
@@ -31,10 +40,9 @@
 
 [科学上网指南-使用篇（客户端）](shadowsocks/shadowsocks-client.md)
 
-<!--[w3school](html/w3school.html)-->
+[w3school](html/w3school.html)
 
 <!--
-Todo: 
 [一个纯软件开发者的硬件之路](product/software-to-hardware.md)
 [2017年阅读清单](education/books-2017.md)
 [适合小团队的产品管理和研发流程]()
