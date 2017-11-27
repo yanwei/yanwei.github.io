@@ -3,7 +3,7 @@
 <link rel="stylesheet" type="text/css" href="../auto-number-title.css" >
 
 ```json
-{"Author":"yanwei", "At":"Shanghai", "LastUpdate":"2017-09-14"}
+{"Author":"yanwei", "At":"Shanghai", "LastUpdate":"2017-09-27"}
 ```
 
 ## 说明
@@ -75,6 +75,8 @@ $ sudo vi /etc/shadowsocks.json
     "fast_open":false
 }
 ```
+
+> 注：最近GFW似乎能识别用aes-256-cfb加密的数据包并墙掉相应的端口，这种情况下可以试试其他加密方式。客户端配置需要注意和服务器保持一致。
 
 ## 防火墙
 阿里云和AWS都有安全组策略，不要忘记把上一步配置的端口加到安全组的公网入站规则中去。Shadowsocks用的是TCP连接，配置的时候注意下。具体操作方式参考两个平台的文档。
