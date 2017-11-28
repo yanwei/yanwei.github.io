@@ -3,7 +3,7 @@
 <link rel="stylesheet" type="text/css" href="../../auto-number-title.css" />
 
 ```json
-{"Author":"yanwei", "At":"Shanghai", "LastUpdate":"2017-09-19"}
+{"Author":"yanwei", "LastUpdate":"2017-11-28"}
 ```
 
 ## 说明
@@ -62,6 +62,9 @@ if __name__ == '__main__':
 > 上述方式虽然可以启动Flask本地服务，但是性能很差，仅适合用于本地调试。生产环境中推荐用uWSGI作为服务容器。
 
 ## 安装uWSGI
+
+### 安装
+
 `$ pip3 install uwsgi`
 
 > 不要用apt安装uWSGI，ubuntu上默认安装的uWSGI会启动默认的Python2
@@ -70,6 +73,7 @@ if __name__ == '__main__':
 
 `$ uwsgi --socket :8080 --wsgi-file test.py --master`
 
+### 配置
 也可以使用配置文件，免去每次启动都要输入很多参数的麻烦：
 
 `$ vi uwsgi.ini`
@@ -84,9 +88,23 @@ master = true
 py-autoreload = 1
 ```
 
+### 启动服务
+
 `$ uwsgi --ini uwsgi.ini`
 
 本例中的uWSGI启动了一个本地服务，在8080端口进行监听。接下来配置Nginx，把公网上80端口的请求转发到8080端口上来。
+
+### 设置自动启动
+
+```
+$ sudo vi /etc/rc.local
+```
+
+增加一行：
+
+```
+uwsgi --ini /var/www/html/test/uwsgi.ini
+```
 
 ## 安装Nginx
 
