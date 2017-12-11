@@ -22,7 +22,7 @@
 
 2017-09-25 [给“得到”App的一些产品建议](product/advice-for-dedao-app.md)
 
-<!--Todo：[App账号体系设计和注册登录流程](product/app-account-register-login.md)-->
+Todo：[App账号体系设计和注册登录流程](product/app-account-register-login.md)
 
 ## 教育
 

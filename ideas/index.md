@@ -1,6 +1,12 @@
 # Ideas
 
-2017-11-18 Todo：[儿童激励App](kids-stimulate-app.md)
+2017-12-11 [家用快速定时器](rapid-timer.md)
+
+2017-12-07 [小学奥数问题的编程实现](pupil-math-programming-implementation.md)
+
+2017-11-30 [优化抽取式面巾纸的使用体验](tissue-package-optimization.md)
+
+2017-11-18 [儿童激励App/Web](kids-stimulate-app.md)
 
 2017-11-16 [输液计时器](transfusion-timer.md)
 
