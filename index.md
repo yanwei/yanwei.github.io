@@ -1,3 +1,11 @@
+## Product
+
+Todo: [教育产品设计中的游戏化思路](game-mode-on-edu-product.md)
+
+2017-09-25 [给“得到”App的一些产品建议](product/advice-for-dedao-app.md)
+
+Todo: [App账号体系设计和注册登录流程](product/app-account-register-login.md)
+
 ## DevOps
 
 2017-11-27 [Mac上的一些网络加速技巧](devops/mac-network-speedup.md)
@@ -18,19 +26,13 @@
 
 2017-09-19 [Nginx + uWSGI + Flask + Python 简单上手指南](devops/python/nginx-uwsgi-flask-python.md)
 
-## 产品
-
-2017-09-25 [给“得到”App的一些产品建议](product/advice-for-dedao-app.md)
-
-Todo：[App账号体系设计和注册登录流程](product/app-account-register-login.md)
-
-## 教育
+## Education
 
 <!--
 [少儿英语教材研究]()
 -->
 
-## 其他
+## Misc.
 
 2017-11-07 [MarkDown标题自动添加编号](misc/markdown-auto-number-title.md)
 

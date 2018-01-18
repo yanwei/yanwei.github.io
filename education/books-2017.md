@@ -1,5 +1,7 @@
 # 2017年阅读清单
 
+<link rel="stylesheet" type="text/css" href="../auto-number-title.css" />
+
 ## 人类简史
 
 ## 未来简史
