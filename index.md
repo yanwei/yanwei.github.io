@@ -1,12 +1,14 @@
 ## Product
 
-Todo: [教育产品设计中的游戏化思路](game-mode-on-edu-product.md)
+<!--Todo: [教育产品设计中的游戏化思路](product/game-mode-on-edu-product.md)-->
 
 2017-09-25 [给“得到”App的一些产品建议](product/advice-for-dedao-app.md)
 
-Todo: [App账号体系设计和注册登录流程](product/app-account-register-login.md)
+<!--Todo: [App账号体系设计和注册登录流程](product/app-account-register-login.md)-->
 
 ## DevOps
+
+2018-01-24 [Nginx利用301实现http自动跳转到https](devops/nginx-301-http-https.md)
 
 2017-11-27 [Mac上的一些网络加速技巧](devops/mac-network-speedup.md)
 
@@ -15,6 +17,8 @@ Todo: [App账号体系设计和注册登录流程](product/app-account-register-
 2017-11-01 [Mac上升级XCode后Clion项目编译失败](devops/clion-compile-error-on-mac.md)
 
 ### Python
+
+2018-05-03 [pip3（v10.0.1）更新全部packages](devops/python/pip3-upgrade-all.md)
 
 2017-11-27 [pip更新全部packages](devops/python/pip-upgrade-all.md)
 
