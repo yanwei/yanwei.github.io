@@ -27,6 +27,7 @@
 
     访问时间 | 短链接地址/ID | 目标地址 | 用户IP | 设备类型 | User-Agent
     ---- | ---- | ---- | ---- | ---- | ----
+    DateTime | URL / int | URL | IP Addr. | Android / iOS / Windows / Mac | User-Agent
 
 * 1-2秒后自动跳转到目标地址
 
