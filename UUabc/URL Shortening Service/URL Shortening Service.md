@@ -12,7 +12,7 @@
 ![业务流程](./短链接服务&推广二维码.png)
 
 ### 生成短链接并配置目标地址
-* 短链接格式：`https://go.uuabc.com/[slid]`
+* 短链接格式：`http://go.uuabc.com/[slid]`
 
     ```slid = short link id，随机数字或字符串，不超过8个字符```
 
