@@ -1,6 +1,6 @@
 # Live Broadcast System
 
-<p align=right>Rev.1, by UUabc, 2018-8-5</p>
+<p align="right">Rev 1.0, yanwei, 2018-8-5</p>
 
 ## 1. Overview and Hardware Setup
 ![overview](0.png)
