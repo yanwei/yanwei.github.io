@@ -19,6 +19,13 @@
 如果选择阿里云的话，目前有一年300 RMB不到的入门配置，也是很划算的。
 
 ## 在Linux上安装
+
+### 用apt命令直接安装
+```
+$ sudo apt install shadowsocks
+```
+
+### 用Python pip命令安装
 安装Python：（大多Linux发行版自带了Python，可跳过）
 
 ```
