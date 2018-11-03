@@ -37,7 +37,9 @@
 
 ### Get ready for the 'Open Course'
 
-> no screenshots right now, need some descriptions/rules for the 'Open Course' here
+> no screenshots for the teachers right now, need some descriptions/rules for the 'Open Course' here
+
+![student-open-course](student-open-course.png)
 
 ## Coming Next...
 
