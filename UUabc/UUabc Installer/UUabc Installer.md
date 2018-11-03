@@ -1,5 +1,5 @@
 # UUabc Installer
-<link rel="stylesheet" type="text/css" href="/Users/yanwei/Documents/yanwei.github.io/auto-number-title.css" />
+<link rel="stylesheet" type="text/css" href="https://yanwei.github.io/auto-number-title.css" />
 
 ```json
 {"Author":"yanwei", "LastUpdate":"2018-8-23", "Revison":"1.0"}
