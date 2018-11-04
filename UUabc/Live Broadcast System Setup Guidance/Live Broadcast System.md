@@ -3,9 +3,11 @@
 <p align="right">Rev 1.0, yanwei, 2018-8-5</p>
 
 ## 1. Overview and Hardware Setup
+
 ![overview](0.png)
 
 ## 2. Software Setup
+
 Step 1) Download and install **OBS Studio** (Open Broadcaster Software) at **<https://obsproject.com>**
 
 ![obs](1-1.png)

@@ -1,4 +1,5 @@
 # 短链接服务
+
 <link rel="stylesheet" type="text/css" href="https://yanwei.github.io/auto-number-title.css" />
 
 ```json
@@ -12,6 +13,7 @@
 ![业务流程](./短链接服务&推广二维码.png)
 
 ### 生成短链接并配置目标地址
+
 * 短链接格式：`http://go.uuabc.com/[slid]`
 
     ```slid = short link id，随机数字或字符串，不超过8个字符```
@@ -21,6 +23,7 @@
 ### 生成短链接二维码
 
 ### 短链接loading页面
+
 * Loading动画（需UI设计）
 * Loading页面需适配PC和移动端
 * 记录访问日志（至少包含以下字段）
@@ -32,4 +35,5 @@
 * 1-2秒后自动跳转到目标地址
 
 ### 跳转到目标地址
+
 目标地址为实际功能的落地页面，具体内容不在不文档讨论范围内。
