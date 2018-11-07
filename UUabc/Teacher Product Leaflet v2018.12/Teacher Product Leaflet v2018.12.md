@@ -5,15 +5,17 @@
 > 形式：长图/单页
 
 ## Header
+
 * Background Image + UUabc Logo
 * Slogan: **`UUabc, there is always a 'U' in 'US'`**
 * Tags for core features ??
-    * New Design
-    * Teacher's App
-    * Track Candidates
-    * Open Course
+  * New Design
+  * Teacher's App
+  * Track Candidates
+  * Open Course
 
 ## Main Features
+
 ### Brand new 'Teacher Center'
 
 > (English version screenshot needed)
@@ -48,6 +50,7 @@
 * community for the teachers (master teacher / KOL ?)
 
 ## Footer
+
 * available date: Dec. 2018
 * UUabc logo
 * follow us: Facebook、Twitter、Email...
