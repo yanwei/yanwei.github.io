@@ -9,3 +9,5 @@
 [Teacher Product Leaflet v2018.12](Teacher Product Leaflet v2018.12/Teacher Product Leaflet v2018.12.md)
 
 [Data Migration Plan v2018.12](Data Migration v2018.12.md)
+
+[UUabc Privacy Policy](UUabc Privacy Policy.md)
