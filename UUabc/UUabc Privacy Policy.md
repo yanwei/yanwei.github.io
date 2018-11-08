@@ -1,5 +1,7 @@
 # Privacy Policy
 
+<link rel="stylesheet" type="text/css" href="https://yanwei.github.io/auto-number-title.css" />
+
 *This Privacy Policy was last updated on November 8, 2018.*
 
 > Reference: [VIPKid's Privacy Policy](https://t.vipkid.com.cn/policy). And I have replaced all the "VIPKID" with "UUabc", VIPKID website URL with UUabc website URL, VIPKID email address with UUabc email address. 
