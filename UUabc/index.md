@@ -10,4 +10,4 @@
 
 [Data Migration Plan v2018.12](Data Migration v2018.12.md)
 
-[UUabc Privacy Policy](UUabc Privacy Policy.md)
+[UUabc Privacy Policy for Teachers](UUabc Privacy Policy.md)
