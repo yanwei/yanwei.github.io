@@ -50,8 +50,7 @@ $ vi ~/.pip/pip.conf
 
 ```
 [global]
-index-url = http://mirrors.aliyun.com/pypi/simple
-[install]
+index-url = https://mirrors.aliyun.com/pypi/simple
 trusted-host = mirrors.aliyun.com
 ```
 
