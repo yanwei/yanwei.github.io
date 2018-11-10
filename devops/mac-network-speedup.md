@@ -1,12 +1,13 @@
-# Mac上的一些网络加速技巧
+# Mac上的brew和pip网络加速
 
-<link rel="stylesheet" type="text/css" href="../auto-number-title.css" />
+<link rel="stylesheet" type="text/css" href="https://yanwei.github.io/auto-number-title.css" />
 
 ```json
-{"Author":"yanwei", "LastUpdate":"2017-11-27"}
+{"Author":"yanwei", "LastUpdate":"2018-11-10"}
 ```
 
 ## brew
+
 Homebrew是Mac上的包管理神器。但是由于下载源在国外，速度让人无法忍受。国内的镜像有时也不太靠谱。最简单最靠谱的方法就是用代理，brew用curl下载，所以给curl挂上socks5的代理即可。
 
 ### 准备工作
@@ -17,13 +18,13 @@ Homebrew是Mac上的包管理神器。但是由于下载源在国外，速度让
 
 ### 修改curl配置
 
-```
+```cmd
 $ vi ~/.curlrc
 ```
 
 在`~/.curlrc`文件中输入代理地址即可。如果你的shadowsocks服务端速度够快的话，brew的下载速度简直就是飞起。
 
-```
+```conf
 socks5 = "127.0.0.1:1086"
 ```
 
@@ -33,22 +34,22 @@ socks5 = "127.0.0.1:1086"
 
 ### 国内源
 
-清华：https://pypi.tuna.tsinghua.edu.cn/simple<br/>
-阿里云：http://mirrors.aliyun.com/pypi/simple<br/>
-中国科技大学：https://pypi.mirrors.ustc.edu.cn/simple<br/>
-华中理工大学：http://pypi.hustunique.com<br/>
-山东理工大学：http://pypi.sdutlinux.org<br/>
-豆瓣：http://pypi.douban.com/simple<br/>
+* 清华：https://pypi.tuna.tsinghua.edu.cn/simple
+* 阿里云：https://mirrors.aliyun.com/pypi/simple
+* 中国科技大学：https://pypi.mirrors.ustc.edu.cn/simple
+* 华中理工大学：http://pypi.hustunique.com
+* 山东理工大学：http://pypi.sdutlinux.org
+* 豆瓣：http://pypi.douban.com/simple
 
 ### 使用方法
 
-```
+```cmd
 $ vi ~/.pip/pip.conf
 ```
 
 如果目录不存在，需要先创建。在`pip.conf`文件中加入以下内容：
 
-```
+```conf
 [global]
 index-url = https://mirrors.aliyun.com/pypi/simple
 trusted-host = mirrors.aliyun.com

@@ -8,11 +8,11 @@
 
 ## DevOps
 
+2018-11-10 [Mac上的brew和pip网络加速](devops/mac-network-speedup.md)
+
 2018-11-10 [Mac上设置常用命令的别名](devops/mac-set-alias.md)
 
 2018-01-24 [Nginx利用301实现http自动跳转到https](devops/nginx-301-http-https.md)
-
-2017-11-27 [Mac上的一些网络加速技巧](devops/mac-network-speedup.md)
 
 2017-11-23 [Ubuntu和Mac上开启VIM语法高亮](devops/vim-syntax-highlight.md)
 
