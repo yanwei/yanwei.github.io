@@ -1,14 +1,34 @@
+# Coding for Kids
+
+[todo] [计算机基础知识（硬件篇）](coding4kids/computer-basis-hardware.md)
+
+[todo] [计算机基础知识（软件篇）](coding4kids/computer-basis-software.md)
+
+[todo] [Coding with Blocks](coding4kids/coding-with-blocks.md)
+
+[todo] [Learn Python - Basis (1-10)](coding4kids/python-basis-series.md)
+
+[todo] [Learn Python - Solve Your Math Problem (1-10)](coding4kids/python-math-problem.md)
+
+[todo] [Learn C/C++ - Basis (1-10)](coding4kids/cpp-basis-series.md)
+
 # Devops
 
 [2018-11-10] [Mac上的brew和pip网络加速](devops/mac-network-speedup.md)
 
 [2018-11-10] [Mac上设置常用命令的别名](devops/mac-set-alias.md)
 
+[2018-01-24] [Nginx利用301实现http自动跳转到https](devops/nginx-301-http-https.md)
+
 [2017-11-23] [Ubuntu和Mac上开启VIM语法高亮](devops/vim-syntax-highlight.md)
+
+[2017-11-07] [MarkDown标题自动添加编号](misc/markdown-auto-number-title.md)
 
 [2017-11-01] [Mac上升级XCode后Clion项目编译失败](devops/clion-compile-error-on-mac.md)
 
-[2018-01-24] [Nginx利用301实现http自动跳转到https](devops/nginx-301-http-https.md)
+[2017-09-14] [科学上网指南-服务器篇](shadowsocks/shadowsocks-server.md)
+
+[2017-09-14] [科学上网指南-使用篇（客户端）](shadowsocks/shadowsocks-client.md)
 
 # Python
 
@@ -30,13 +50,7 @@
 
 # Misc
 
-[2017-11-07] [MarkDown标题自动添加编号](misc/markdown-auto-number-title.md)
-
 [2017-11-07] [【转】如何写商业计划书(BP)](misc/how-to-write-bp.md)
-
-[2017-09-14] [科学上网指南-服务器篇](shadowsocks/shadowsocks-server.md)
-
-[2017-09-14] [科学上网指南-使用篇（客户端）](shadowsocks/shadowsocks-client.md)
 
 [转][如何吹口哨](misc/how-to-whistle.md)
 
