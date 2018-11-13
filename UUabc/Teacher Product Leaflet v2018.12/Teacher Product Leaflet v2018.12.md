@@ -7,51 +7,75 @@
 ## Header
 
 * Background Image + UUabc Logo
-* Slogan: **`UUabc, there is always a 'U' in 'US'`**
-* Tags for core features ??
-  * New Design
-  * Teacher's App
-  * Track Candidates
+* Title: Platform Changes Are Coming!
+<!-- * Slogan: **`UUabc, there is always a 'U' in 'US'`** -->
+* What's New
+  * Upgraded Teacher Center
+  * Teacher App
+  * New Scheduling System
+  * Submit Referrals and Track Candidates
   * Open Course
 
 ## Main Features
 
-### Brand new 'Teacher Center'
+### Upgraded Teacher Center and Teacher App
 
-> (English version screenshot needed)
+> A better calendar system for viewing scheduled and future classes.
 
-![teacher-center-homepage](teacher-center-homepage.png)
+> Adjust your schedule or ask for leave from within the teaching center / App.
 
-### Finally, we have the 'Teacher App'
+**put screenshot here**
 
-![teacher-app-course](teacher-app-course.png)
-![teacher-app-feedback](teacher-app-feedback.png)
+<!-- ![teacher-center-homepage](teacher-center-homepage.png) -->
 
-### Never miss your class
+### Never Miss Your Class
 
-> app push notification
+> Push notifications and automated reminders for scheduled classes.
 
-![teacher-app-message](teacher-app-message.png)
+**put screenshot here**
 
-### Submit referrals and track candidates 
+<!-- ![teacher-app-message](teacher-app-message.png) -->
 
-![teacher-app-referral](teacher-app-referral.png)
+### New Scheduling System
 
-### Get ready for the 'Open Course'
+> Fixed students and teachers over the course of a season-long semester.
 
-> no screenshots for the teachers right now, need some descriptions/rules for the 'Open Course' here
+> Watch your students grow over the course of the “semester” to tailor your lessons to your students’ learning styles and to provide far more meaningful assessments!
 
-![student-open-course](student-open-course.png)
+**put screenshot here**
+
+<!-- ![teacher-app-course](teacher-app-course.png) -->
+<!-- ![teacher-app-feedback](teacher-app-feedback.png) -->
+
+### Submit Referrals and Track Candidates
+
+> Refer friends to UUabc and sign-up to teach from within the App.
+
+**put screenshot here**
+
+<!-- ![teacher-app-referral](teacher-app-referral.png) -->
+
+### Get Ready for the 'Open Course'
+
+> Teach lessons to larger audiences using (approved) materials on topics of your choice.
+
+> Open Courses represent a great way for you to explore topics and skills that you're interested in will give you ample opportunity to build your teaching brand within the UUabc platform.
+
+**put screenshot here**
+
+`Scheduled to go live on January 20, 2019`
+
+<!-- ![student-open-course](student-open-course.png) -->
 
 ## Coming Next...
 
 * payment reports and payslip
 * new training and evaluation system
-* community for the teachers (master teacher / KOL ?)
+* community for the teachers
 
 ## Footer
 
-* available date: Dec. 2018
-* UUabc logo
-* follow us: Facebook、Twitter、Email...
-* last edit date / legal statement
+* The new teacher center and App will be available in early Dec. 2018.
+* UUabc logo + Slogan
+* Follow us: [Facebook](https://www.facebook.com/groups/official.site.uuabc), [Email](mailto:teacher.fm@uuabc.com>)
+* Copyright (C) UUabc, All Rights Reserved.

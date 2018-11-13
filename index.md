@@ -1,5 +1,7 @@
 # Coding for Kids
 
+[todo] [Blockly vs. Scratch](coding4kids/blockly-vs-scratch.md)
+
 [todo] [计算机基础知识（硬件篇）](coding4kids/computer-basis-hardware.md)
 
 [todo] [计算机基础知识（软件篇）](coding4kids/computer-basis-software.md)
