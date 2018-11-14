@@ -86,7 +86,7 @@ As part of the requirements for your use of our Site or Service, you are respons
 
 By using our Site or Service, you agree to the terms in this Privacy Policy, which may be amended from time to time. We reserve the right to make changes to this Privacy Policy. We will provide notice to you of any material changes by any reasonable means including sending an email to the most recently updated address in your account and/or posting such notice and the amended policy on the Site. Your continued use of our Site or Service following the changes to this Privacy Policy will mean that you accept and agree to the changes and that any information collected or provided after such change will be governed by the updated Privacy Policy.
 
-## Invitations - Refer a Friend
+## Invitations - refer a friend
 
 If you refer a friend to our Site or Service, your friend will be required to provide his or her information for registration. Your friend will be subject to this Privacy Policy and the terms of service of UUabc.
 
