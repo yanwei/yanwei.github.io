@@ -16,6 +16,8 @@
 
 # Devops
 
+[2018-11-16] [解决iTerm2中git命令行显示中文的问题](devops/iterm2/iterm2-set-locale.md)
+
 [2018-11-10] [Mac上的brew和pip网络加速](devops/mac-network-speedup.md)
 
 [2018-11-10] [Mac上设置常用命令的别名](devops/mac-set-alias.md)
