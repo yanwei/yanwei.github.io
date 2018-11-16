@@ -24,17 +24,16 @@
 
 > Adjust your schedule or ask for leave from within the teaching center / App.
 
-**===> put screenshot here**
-
-<!-- ![teacher-center-homepage](teacher-center-homepage.png) -->
+![teacher-center-homepage](teacher-center-homepage.png)
+![teacher-app-course](teacher-app-course.png)
+![teacher-app-feedback](teacher-app-feedback.png)
 
 ### Never Miss Your Class
 
 > Push notifications and automated reminders for scheduled classes.
 
-**===> put screenshot here**
-
-<!-- ![teacher-app-message](teacher-app-message.png) -->
+![teacher-center-notification](teacher-center-notification.png)
+![teacher-app-message](teacher-app-message.png)
 
 ### New Scheduling System
 
@@ -46,16 +45,11 @@
 
 **===> put screenshot here**
 
-<!-- ![teacher-app-course](teacher-app-course.png) -->
-<!-- ![teacher-app-feedback](teacher-app-feedback.png) -->
-
 ### Submit Referrals and Track Candidates
 
 > Refer friends to UUabc and sign-up to teach from within the App.
 
-**===> put screenshot here**
-
-<!-- ![teacher-app-referral](teacher-app-referral.png) -->
+![teacher-app-referral](teacher-app-referral.png)
 
 ### Get Ready for the 'Open Course'
 
@@ -65,11 +59,9 @@
 
 > Opportunity to build your teaching brand within the UUabc platform.
 
-**===> put screenshot here**
-
 `Scheduled to go live on January 20, 2019`
 
-<!-- ![student-open-course](student-open-course.png) -->
+![student-open-course](student-open-course.png)
 
 ## Coming Next...
 
