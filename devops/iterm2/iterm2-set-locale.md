@@ -19,7 +19,7 @@ Mac上安装iTerm2后，运行git，发现命令提示是中文的。
 
 ![git-in-chinese](git-in-chinese.png)
 
-但是在系统自带的Terminal中运行git，命令提示是英文的。
+但是在系统自带的Terminal中运行git，命令提示是英文的。
 
 ## 分析
 
