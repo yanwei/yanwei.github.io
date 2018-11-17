@@ -1,18 +1,15 @@
 # Coding for Kids
 
-[todo] [Blockly vs. Scratch](coding4kids/blockly-vs-scratch.md)
+[2018-11-17] [Blockly vs. Scratch](coding4kids/blockly-vs-scratch.md)
 
+<!-- todo list
 [todo] [计算机基础知识（硬件篇）](coding4kids/computer-basis-hardware.md)
-
 [todo] [计算机基础知识（软件篇）](coding4kids/computer-basis-software.md)
-
 [todo] [Coding with Blocks](coding4kids/coding-with-blocks.md)
-
 [todo] [Learn Python - Basis (1-10)](coding4kids/python-basis-series.md)
-
 [todo] [Learn Python - Solve Your Math Problem (1-10)](coding4kids/python-math-problem.md)
-
 [todo] [Learn C/C++ - Basis (1-10)](coding4kids/cpp-basis-series.md)
+-->
 
 # Devops
 
@@ -33,6 +30,8 @@
 [2017-09-14] [科学上网指南-服务器篇](shadowsocks/shadowsocks-server.md)
 
 [2017-09-14] [科学上网指南-使用篇（客户端）](shadowsocks/shadowsocks-client.md)
+
+# JavaScript & Node.js
 
 # Python
 
@@ -58,10 +57,10 @@
 
 [转][如何吹口哨](misc/how-to-whistle.md)
 
-<!--
+<!-- todo list
 [w3school](html/w3school.html)
 [一个纯软件开发者的硬件之路](product/software-to-hardware.md)
-[2017年阅读清单](education/books-2017.md)
+[2018年阅读清单](education/books-read-in-2018.md)
 [适合小团队的产品管理和研发流程]()
 [几款背单词App的比较](education/vocabulary-apps.md)
 [Python学习笔记 系列]()
@@ -69,6 +68,6 @@
 [程序员家长如何教小朋友用Scratch学编程]()
 [中国诗词大会抢答模式的策略分析]()
 [最近2年的工作总结]()
-[教育产品设计中的游戏化思路](product/game-mode-on-edu-product.md)
+[教育产品设计中的游戏化思路](product/gamification-on-education.md)
 [App账号体系设计和注册登录流程](product/app-account-register-login.md)
 -->

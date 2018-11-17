@@ -1,9 +1,9 @@
-# Blockly vs. Scratch
+# Blockly vs Scratch
 
 <link rel="stylesheet" type="text/css" href="https://yanwei.github.io/auto-number-title.css" />
 
 ```json
-{"Author":"yanwei", "LastUpdate":"2018-11-13"}
+{"Author":"yanwei", "LastUpdate":"2018-11-17"}
 ```
 
 ## Blockly
@@ -16,3 +16,9 @@
 
 > Stable release: 2.0<br>
 > Most recent release: 3.0 (still in beta): <https://beta.scratch.mit.edu/>
+
+* 开箱即用
+* 3.0版本基于blockly开发
+
+---
+Reference: <https://blog.just4fun.site/scratch3-blockly.html>

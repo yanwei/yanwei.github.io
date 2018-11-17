@@ -3,7 +3,12 @@
 <link rel="stylesheet" type="text/css" href="https://yanwei.github.io/auto-number-title.css" />
 
 ```json
-{"Author":"yanwei", "LastUpdate":"2018-11-16"}
+{"Author":"yanwei", "LastUpdate":"2018-11-17"}
+```
+
+```text
+2018-11-17补充：
+按本文修改设置后，iTerm2中命令行中文文件名无法显示了，vi打开包含中文的文件也显示乱码。这是个问题。。。
 ```
 
 ## 版本信息
