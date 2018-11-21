@@ -1,6 +1,6 @@
 # Coding for Kids
 
-[2018-11-17] [Blockly vs. Scratch](coding4kids/blockly-vs-scratch.md)
+[2018-11-17] [Blockly vs Scratch](coding4kids/blockly-vs-scratch.md)
 
 <!-- todo list
 [todo] [计算机基础知识（硬件篇）](coding4kids/computer-basis-hardware.md)
@@ -32,6 +32,8 @@
 [2017-09-14] [科学上网指南-使用篇（客户端）](shadowsocks/shadowsocks-client.md)
 
 # JavaScript & Node.js
+
+[2018-11-21] [ES6利用解构赋值（Destructuring Assignment）交换两个变量的值](devops/javascript/swap-variables-in-es6.md)
 
 # Python
 
