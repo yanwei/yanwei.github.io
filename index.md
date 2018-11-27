@@ -2,6 +2,8 @@
 
 [2018-11-17] [Blockly vs Scratch](coding4kids/blockly-vs-scratch.md)
 
+<!-- [] [Evan's eBank](coding4kids/evans-ebank.md) -->
+
 <!-- todo list
 [todo] [计算机基础知识（硬件篇）](coding4kids/computer-basis-hardware.md)
 [todo] [计算机基础知识（软件篇）](coding4kids/computer-basis-software.md)
