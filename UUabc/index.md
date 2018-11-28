@@ -13,3 +13,7 @@
 [UUabc Privacy Policy for Teachers](UUabc-Privacy-Policy.md)
 
 [Teacher Service v2019.1.10 Product Plan](Teacher-Service-v2019.1.10.md)
+
+[Guidance for Teacher Service 2.0 (v2018.12.1)](guidance-for-teacher-service-v2018.12.1/guidance-for-teacher-service-v2018.12.1.md)
+
+[A Simple Guidance of the Student Member Center for Foreign Teachers](guidance-of-student-member-center-for-ft/guidance-of-student-member-center-for-ft.md)
