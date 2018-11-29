@@ -6,7 +6,7 @@
 
 [UUabc Installer](UUabc-Installer/UUabc-Installer.md)
 
-[Teacher Product Leaflet v2018.12](Teacher-Product-Leaflet-v2018.12/Teacher-Product-Leaflet-v2018.12.md) [(Click to download the final version)](Teacher-Product-Leaflet-v2018.12/teacher-product-leaflet.jpg)
+[Teacher Product Leaflet v2018.12 (Draft)](Teacher-Product-Leaflet-v2018.12/Teacher-Product-Leaflet-v2018.12.md) | [Download the final version](Teacher-Product-Leaflet-v2018.12/teacher-product-leaflet.jpg)
 
 [Data Migration Plan v2018.12](Data-Migration-v2018.12.md)
 

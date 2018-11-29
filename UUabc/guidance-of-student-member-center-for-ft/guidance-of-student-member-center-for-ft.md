@@ -8,6 +8,12 @@ Dear Teacher,
 
 Welcome to use UUabc's student member center to attend our online training. You will act as a real student to have a live open course.
 
+```text
+About the training:
+    Subject: 
+    Date and time: 
+```
+
 ## Step 1: Get your account and password
 
 Check your email or ask Aaron UU to get the account and password for the training classroom.
