@@ -12,9 +12,6 @@ Welcome to use UUabc's student member center to attend our online training. You 
 About the training:
     Subject: UUAbc Q&A
     Date and time: December 3 at 4pm
-
-    account: 10011280001 - 10011280200
-    password: 123456
 ```
 
 ## Step 1: Get your account and password
