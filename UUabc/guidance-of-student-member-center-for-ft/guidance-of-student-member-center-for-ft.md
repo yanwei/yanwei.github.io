@@ -10,8 +10,11 @@ Welcome to use UUabc's student member center to attend our online training. You 
 
 ```text
 About the training:
-    Subject: 
-    Date and time: 
+    Subject: UUAbc Q&A
+    Date and time: December 3 at 4pm
+
+    account: 10011280001 - 10011280200
+    password: 123456
 ```
 
 ## Step 1: Get your account and password
@@ -28,8 +31,6 @@ Enter your account and password to login. Keep the new page opened and go to the
 
 ## Step 3: Enter the classroom
 
-[Click here to enter the clssroom](http://www.uuabc.com/shapeLive.html?cid=384)
-
-> Note: This document is for preview only. The link above will be replaced with the real classroom URL after everything is ready.
+[Click here to enter the clssroom](http://www.uuabc.com/shapeLive.html?cid=388)
 
 ![classroom](classroom.png)
