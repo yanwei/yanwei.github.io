@@ -10,7 +10,7 @@ Welcome to use UUabc's student member center to attend our online training. You 
 
 ```text
 About the training:
-    Subject: UUAbc Q&A
+    Subject: UUabc Q&A
     Date and time: December 3 at 4pm
 ```
 
