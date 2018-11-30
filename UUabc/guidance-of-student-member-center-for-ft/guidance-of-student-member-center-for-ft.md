@@ -2,7 +2,7 @@
 
 <!-- <link rel="stylesheet" href="https://yanwei.github.io/auto-number-title.css" /> -->
 
-<p align='right'>v1.0, Last Update: 2018.11.28</p>
+<p align='right'>v1.0, Last Update: 2018.11.30</p>
 
 Dear Teacher,
 

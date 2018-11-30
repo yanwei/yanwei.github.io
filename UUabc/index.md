@@ -6,7 +6,7 @@
 
 [UUabc Installer](UUabc-Installer/UUabc-Installer.md)
 
-[(Unfinished) A Simple Guidance of the Student Member Center for Foreign Teachers](guidance-of-student-member-center-for-ft/guidance-of-student-member-center-for-ft.md)
+[A Simple Guidance of the Student Member Center for Foreign Teachers](guidance-of-student-member-center-for-ft/guidance-of-student-member-center-for-ft.md)
 
 ---
 
