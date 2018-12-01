@@ -28,6 +28,7 @@
   * 转介绍奖励计算
   * 薪资报表（后台）
   * 工资单（老师端）
+  <!-- * 参考：[Unified Payment System](unified-payment-system.md) -->
 * 外教运营所需的基础功能
   * 外教独立管理页面
   * 课程提醒：学生和老师分开
