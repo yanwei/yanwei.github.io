@@ -14,6 +14,8 @@ About the training:
     Date and time: December 3 at 4pm
 ```
 
+> Google Chrome is strongly recommended for the open course.
+
 ## Step 1: Get your account and password
 
 Check your email or ask Aaron UU to get the account and password for the training classroom.
@@ -31,3 +33,9 @@ Enter your account and password to login. Keep the new page opened and go to the
 [Click here to enter the clssroom](http://www.uuabc.com/shapeLive.html?cid=388)
 
 ![classroom](classroom.png)
+
+And follow the next step to enable flash in your browser.
+
+## Step 4: Enable flash
+
+![flash](flash.png)
