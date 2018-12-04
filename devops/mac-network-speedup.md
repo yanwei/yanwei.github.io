@@ -1,6 +1,6 @@
 # Mac上的brew和pip网络加速
 
-<link rel="stylesheet" type="text/css" href="https://yanwei.github.io/auto-number-title.css" />
+<link rel="stylesheet" href="https://yanwei.github.io/auto-number-title.css" />
 
 ```json
 {"Author":"yanwei", "LastUpdate":"2018-11-10"}

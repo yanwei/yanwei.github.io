@@ -1,6 +1,6 @@
 # 解决iTerm2中git命令行显示中文的问题
 
-<link rel="stylesheet" type="text/css" href="https://yanwei.github.io/auto-number-title.css" />
+<link rel="stylesheet" href="https://yanwei.github.io/auto-number-title.css" />
 
 ```json
 {"Author":"yanwei", "LastUpdate":"2018-11-17"}
@@ -31,14 +31,14 @@ Mac上安装iTerm2后，运行git，发现命令提示是中文的。
 在iTerm2中运行：
 
 ```bash
-$echo $LANG
+$ echo $LANG
 zh_CN.UTF-8
 ```
 
 在系统自带的Terminal中运行：
 
 ```bash
-$echo $LANG
+$ echo $LANG
 
 ```
 

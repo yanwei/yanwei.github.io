@@ -1,6 +1,6 @@
 # Mac上设置常用命令的别名
 
-<link rel="stylesheet" type="text/css" href="https://yanwei.github.io/auto-number-title.css" />
+<link rel="stylesheet" href="https://yanwei.github.io/auto-number-title.css" />
 
 ```json
 {"Author":"yanwei", "LastUpdate":"2018-11-10"}
@@ -8,7 +8,7 @@
 
 在Terminal执行：
 
-```cmd
+```bash
 $ vi ~/.bash_profile
 ```
 
@@ -23,6 +23,6 @@ alias jn='cd ~/Jupyter && jupyter notebook'
 
 `esc + :wq`保存文件，并执行如下命令，使设置立即生效。
 
-```cmd
+```bash
 $ source ~/.bash_profile
 ```

@@ -2,6 +2,8 @@
 
 [2018-11-17] [Blockly vs Scratch](coding4kids/blockly-vs-scratch.md)
 
+[2018-12-04] [什么是PEMDAS？](coding4kids/about-pemdas.md)
+
 <!-- [] [Evan's eBank](coding4kids/evans-ebank.md) -->
 
 <!-- todo list
@@ -13,7 +15,7 @@
 [todo] [Learn C/C++ - Basis (1-10)](coding4kids/cpp-basis-series.md)
 -->
 
-# Devops
+# DevOps
 
 [2018-11-16] [解决iTerm2中git命令行显示中文的问题](devops/iterm2/iterm2-set-locale.md)
 
