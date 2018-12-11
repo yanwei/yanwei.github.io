@@ -20,6 +20,8 @@
 
 [(Unfinished) Guidance for Teacher Service 2.0 (v2018.12.1)](guidance-for-teacher-service-v2018.12.1/guidance-for-teacher-service-v2018.12.1.md)
 
+[(Unfinished) Teaching Affairs](teaching-affairs.md)
+
 ---
 
 [(Unfinished) Teacher Service v2019.1.10 Product Plan](Teacher-Service-v2019.1.10.md)

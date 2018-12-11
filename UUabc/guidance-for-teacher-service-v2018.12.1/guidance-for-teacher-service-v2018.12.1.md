@@ -2,7 +2,7 @@
 
 <link rel="stylesheet" href="https://yanwei.github.io/auto-number-title.css" />
 
-<p align='right'>v0.1, Last Update: 2018.11.28</p>
+<p align='right'>v1.0, Last Update: 2018.12.10</p>
 
 ## Overview of the whole system: system 1.0/1.5 and system 2.0
 
