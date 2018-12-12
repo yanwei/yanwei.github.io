@@ -1,4 +1,4 @@
-# Guidance for Teacher Service 2.0 (v2018.12.10)
+# Guidance for Teacher Service 2.0 (v2018.12.1)
 
 <link rel="stylesheet" href="https://yanwei.github.io/auto-number-title.css" />
 
@@ -16,8 +16,7 @@ As a result, UUabc's students, teachers, and some of the support team will be di
 
 The following diagram illustrates the differences and relationship between the old and new platforms:
 
-> todo: ![system overview]()
-<br>platform 1.0 & platform 2.0, students and teachers
+![system overview](system-overview.png)
 
 ### Schedule & milestone
 
@@ -47,7 +46,7 @@ The following diagram illustrates the differences and relationship between the o
 
 > todo: screenshot of pc and app
 
-https://teacher.uuabc.com
+[https://teacher.uuabc.com]
 
 * use email and password to login
 * this is the 1.0 teacher center entrance and will be automatically re-directed to https://member.uuabc.com before 21 Jan. 2019.
@@ -56,7 +55,7 @@ https://teacher.uuabc.com
 
 > todo: screenshot of pc and app
 
-https://member.uuabc.com
+[https://member.uuabc.com]
 
 * use email and password to login (same as in platform 1.0)
 * platform 1.0 teachers will be automatically re-directed to the 1.0 teacher center
