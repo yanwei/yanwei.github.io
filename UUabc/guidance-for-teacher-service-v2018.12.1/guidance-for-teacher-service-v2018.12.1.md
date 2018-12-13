@@ -46,7 +46,7 @@ The following diagram illustrates the differences and relationship between the o
 
 > todo: screenshot of pc and app
 
-[https://teacher.uuabc.com]
+[https://teacher.uuabc.com]()
 
 * use email and password to login
 * this is the 1.0 teacher center entrance and will be automatically re-directed to https://member.uuabc.com before 21 Jan. 2019.
@@ -55,13 +55,13 @@ The following diagram illustrates the differences and relationship between the o
 
 > todo: screenshot of pc and app
 
-[https://member.uuabc.com]
+[https://member.uuabc.com]()
 
 * use email and password to login (same as in platform 1.0)
 * platform 1.0 teachers will be automatically re-directed to the 1.0 teacher center
-* new teachers recuited after 21 Jan. 2019 will enter the 2.0 teacher center directly
-* before 1 May 2019, teachers migrated from platform 1.0 will be prompted whether they would like to enter the 1.0 teacher center or the 2.0 teacher center everytime they sign in (todo: screenshot)
-* and, after 1 May 2019, all the platform 2.0 teachers will enter the 2.0 teacher center directly
+* new teachers recuited after 21 Jan. 2019 (TBD) will enter the 2.0 teacher center directly
+* before 1 May 2019 (TBD), teachers migrated from platform 1.0 will be prompted whether they would like to enter the 1.0 teacher center or the 2.0 teacher center everytime they sign in (todo: screenshot)
+* and, after 1 May 2019 (TBD), all the platform 2.0 teachers will enter the 2.0 teacher center directly
 
 ### Check your schedule
 

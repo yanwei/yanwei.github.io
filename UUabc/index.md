@@ -22,6 +22,8 @@
 
 [(Unfinished) Teaching Affairs](teaching-affairs.md)
 
+[Teacher Service (Backoffice) v2018.12.20 Product Plan](Teacher-Service-v2018.12.20.md)
+
 ---
 
 [(Unfinished) Teacher Service v2019.1.10 Product Plan](Teacher-Service-v2019.1.10.md)
