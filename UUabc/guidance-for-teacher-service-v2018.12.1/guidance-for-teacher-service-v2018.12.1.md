@@ -86,8 +86,10 @@ todo: screenshot for the App
 * use email and password to login (same as in platform 1.0, and note that only teachers migrated to platform 2.0 can login right now.)
 * platform 1.0 teachers will be automatically re-directed to the 1.0 teacher center
 * new teachers recuited after 21 Jan. 2019 (TBD) will enter the 2.0 teacher center directly
-* before 1 May 2019 (TBD), teachers migrated from platform 1.0 will be prompted whether they would like to enter the 1.0 teacher center or the 2.0 teacher center everytime they sign in (todo: screenshot)
+* before 1 May 2019 (TBD), teachers migrated from platform 1.0 will be prompted whether they would like to enter the 1.0 teacher center or the 2.0 teacher center everytime they sign in (as shown below)
 * and, after 1 May 2019 (TBD), all the platform 2.0 teachers will enter the 2.0 teacher center directly
+
+![teacher-center-2.0-login-select](teacher-center-2.0-login-select.png)
 
 ### Check your schedule
 
