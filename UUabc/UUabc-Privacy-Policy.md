@@ -1,6 +1,6 @@
 # Privacy Policy
 
-<link rel="stylesheet" type="text/css" href="https://yanwei.github.io/auto-number-title.css" />
+<link rel="stylesheet" href="https://yanwei.github.io/auto-number-title.css" />
 
 *This Privacy Policy was last updated on November 14, 2018.*
 
