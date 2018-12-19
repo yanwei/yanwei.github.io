@@ -54,7 +54,7 @@
 
 #### 学习过程
 
-代码方式（Pyton、JavaScript、CoffeeScript）的互动学习过程，不同于Scratch等模块化编程环境，学生需要自己手动键入代码。不过代码提示和自动补全做的挺好，编程效率较高。
+代码方式（Python、JavaScript）的互动学习过程，不同于Scratch等模块化编程环境，学生需要自己手动键入代码。不过代码提示和自动补全做的挺好，编程效率较高。
 
 ![student-level-code-ide](codecombat-first-sight/student-level-code-ide.png)
 
