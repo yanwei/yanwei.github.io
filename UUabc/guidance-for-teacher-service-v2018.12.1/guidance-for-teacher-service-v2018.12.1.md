@@ -2,13 +2,13 @@
 
 <link rel="stylesheet" href="https://yanwei.github.io/auto-number-title.css" />
 
-<p align='right'>v0.1, Last Update: 2018.12.15</p>
+<p align='right'>v0.1, Last Update: 2018.12.21</p>
 
 ## Overview of the whole system: platform 1.0 and 2.0
 
 ### System overview
 
-UUabc has released the version 2.0 platform in December 2018 which involves a new scheduling system, mobile phone App for the teachers, and self-registration & referral system for candidate teachers.
+UUabc is about to release the version 2.0 platform in December 2018 which will involve a new scheduling system, mobile phone App for the teachers, and self-registration & referral system for candidate teachers.
 
 However, since we still have thousands of students attending the classical one-on-one and one-on-four classes, the version 1.0 platform will still be used for the next couple of months before the students are completely migrated to platform 2.0.
 
