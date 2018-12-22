@@ -1,3 +1,1 @@
-```json
-{'code': 404, 'msg': 'page not found'}
-```
+{'code': 404, 'message': 'page not found'}

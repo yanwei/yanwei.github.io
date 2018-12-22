@@ -58,7 +58,7 @@ The following diagram illustrates the differences and relationship between the o
 
 ![teacher-center-homepage](teacher-center-homepage.png)
 
-todo: screenshot for the App
+> todo: screenshot for the App
 
 ### New scheduling system
 
@@ -99,11 +99,13 @@ todo: screenshot for the App
 
 ### Get notified of your classes
 
-> todo: screenshot of pc and app
+> todo: screenshot of the app
 
 #### Message center
 
-> todo: screenshot of pc and app
+![teacher-center-message-center](teacher-center-message-center.png)
+
+> todo: screenshot of the app
 
 ### Start a lesson
 
@@ -128,6 +130,8 @@ Wait for your students and start the lesson.
 ![teacher-center-2.0-startlesson-4](teacher-center-2.0-startlesson-4.png)
 
 #### About the classroom
+
+![teacher-center-classroom](teacher-center-classroom.png)
 
 > todo: screenshot of pc and app
 
@@ -160,6 +164,8 @@ Fill in the detailed infomation of the candidate and click "Submit".
 ![teacher-center-2.0-referrals-2](teacher-center-2.0-referrals-2.png)
 
 After you have submitted some candidates, you can check the recruiting progress in the "My Referrals" panel.
+
+![teacher-center-2.0-referrals-3](teacher-center-2.0-referrals-3.png)
 
 ### Get ready for the 'Open Course'
 
