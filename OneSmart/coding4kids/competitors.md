@@ -1,5 +1,7 @@
 # 少儿编程领域玩家分析
 
+<link rel="stylesheet" href="https://yanwei.github.io/auto-number-title.css" />
+
 ## Platform
 
 [tynker.com](https://www.tynker.com)
@@ -13,6 +15,8 @@
 
 [CodeCombat](https://codecombat.com/)
 
+* [CodeCombat初步体验](coding4kids/codecombat-first-sight.md)
+
 [网易卡搭](https://kada.163.com/)
 
 * 基于Scratch 2.0和3.0
@@ -23,13 +27,13 @@
 
 [摩比TEAM编程](https://www.mobby.cn/beijing/course/index?query=10)
 
+[VipCode](https://www.vipcode.com)
+
+* [VipCode试听课体验流程](study-of-vipcode-demo-class.md)
+
 西瓜创客
 
 编程猫
-
-[VipCode](https://www.vipcode.com)
-
-* [Demo Class of VipCode](study-of-vipcode-demo-class.md)
 
 酷丁鱼
 

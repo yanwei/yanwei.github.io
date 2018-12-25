@@ -6,6 +6,4 @@
 
 [Competitors](coding4kids/competitors.md)
 
-[CodeCombat初步体验](coding4kids/codecombat-first-sight.md)
-
 [CSTA](https://www.csteachers.org/)
