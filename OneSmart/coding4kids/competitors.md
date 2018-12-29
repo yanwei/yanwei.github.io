@@ -20,7 +20,7 @@
 
 [CodeCombat](https://codecombat.com/)
 
-* [CodeCombat初步体验](coding4kids/codecombat-first-sight.md)
+* [CodeCombat初步体验](codecombat-first-sight.md)
 
 [网易卡搭](https://kada.163.com/)
 
