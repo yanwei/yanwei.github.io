@@ -41,6 +41,8 @@
 
 # Python
 
+[2018-12-29] [Nginx + uWSGI + Flask + Python 简单上手指南](devops/python/nginx-uwsgi-flask-python.md)
+
 [2018-05-03] [pip3（v10.0.1）更新全部packages](devops/python/pip3-upgrade-all.md)
 
 [2017-11-27] [pip更新全部packages](devops/python/pip-upgrade-all.md)
@@ -50,8 +52,6 @@
 [2017-09-27] [Python中的 try / except / else / finally 语句](devops/python/try-except-else-finally.md)
 
 [2017-09-25] [Python3中 global 和 nonlocal 的区别](devops/python/global-nonlocal.md)
-
-[2017-09-19] [Nginx + uWSGI + Flask + Python 简单上手指南](devops/python/nginx-uwsgi-flask-python.md)
 
 # Product
 
