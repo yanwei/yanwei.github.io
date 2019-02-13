@@ -2,6 +2,4 @@
 
 <link rel="stylesheet" href="https://yanwei.github.io/auto-number-title.css" />
 
-```json
-{"Author":"yanwei", "LastUpdate":"2017-09-25"}
-```
+<p align='right'>v1.0, Last Update: 2018.12.22</p>

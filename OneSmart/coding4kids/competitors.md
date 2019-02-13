@@ -104,7 +104,9 @@ vipJr（Scratch & Python+AI）
 
 [makeblock **](https://www.makeblock.com/)
 
-[micro:bit]https://microbit.org/code/
+[micro:bit](https://microbit.org/code/)
+
+* [micro:bit研究](study-of-microbit.md)
 
 [奥松机器人](http://www.alsrobot.cn/)
 
