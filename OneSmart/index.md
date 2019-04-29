@@ -2,16 +2,8 @@
 
 ## Coding for Kids
 
-[Basic](coding4kids/basic.md)
-
-[Competitors](coding4kids/competitors.md)
-
-[CSTA](https://www.csteachers.org/)
+## Personal
 
 ## 家庭教育
 
-[竞品研究](家庭教育/competitors.md)
-
-[用户调研](家庭教育/user-research.md)
-
-[App 1.0项目开发](家庭教育/app1.0-project.md)
+[家学宝App充值和支付流程](家庭教育/jxb-app/app-recharge-and-pay.md)
