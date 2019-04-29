@@ -30,7 +30,7 @@
 
 ### 交互原型
 
-https://org.modao.cc/app/06c5e5c008ee4a65d7e3630316e11cc4
+<https://org.modao.cc/app/06c5e5c008ee4a65d7e3630316e11cc4>
 
 ### 工作流
 
@@ -42,9 +42,9 @@ https://org.modao.cc/app/06c5e5c008ee4a65d7e3630316e11cc4
 
 ## 参考文档：
 
-* 苹果官方文档：https://developer.apple.com/cn/in-app-purchase/
-* 有赞自定义收银台接口文档：https://diy.youzanyun.com/extension-points/0
-* https://xiaovv.me/2018/05/03/My-iOS-In-App-Purchase-Summarize/
-* https://www.jianshu.com/p/30677a9ff6b2
-* https://www.meiwen.com.cn/subject/stwwtxtx.html
-* 2017苹果内购价格表：https://www.jianshu.com/p/aa713df30826
+* 苹果官方文档：<https://developer.apple.com/cn/in-app-purchase/>
+* 有赞自定义收银台接口文档：<https://diy.youzanyun.com/extension-points/0>
+* <https://xiaovv.me/2018/05/03/My-iOS-In-App-Purchase-Summarize/>
+* <https://www.jianshu.com/p/30677a9ff6b2>
+* <https://www.meiwen.com.cn/subject/stwwtxtx.html>
+* 2017苹果内购价格表：<https://www.jianshu.com/p/aa713df30826>
