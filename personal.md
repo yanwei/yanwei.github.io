@@ -1,4 +1,6 @@
-# Coding for Kids
+# Personal
+
+## Coding for Kids
 
 [2018-11-17] [Blockly vs Scratch](coding4kids/blockly-vs-scratch.md)
 
@@ -15,7 +17,7 @@
 [todo] [Learn C/C++ - Basis (1-10)](coding4kids/cpp-basis-series.md)
 -->
 
-# DevOps
+## DevOps
 
 [2018-11-16] [解决iTerm2中git命令行显示中文的问题](devops/iterm2/iterm2-set-locale.md)
 
@@ -35,11 +37,11 @@
 
 [2017-09-14] [科学上网指南-使用篇（客户端）](shadowsocks/shadowsocks-client.md)
 
-# JavaScript & Node.js
+## JavaScript & Node.js
 
 [2018-11-21] [ES6利用解构赋值（Destructuring Assignment）交换两个变量的值](devops/javascript/swap-variables-in-es6.md)
 
-# Python
+## Python
 
 [2018-12-29] [Nginx + uWSGI + Flask + Python 简单上手指南](devops/python/nginx-uwsgi-flask-python.md)
 
@@ -53,11 +55,21 @@
 
 [2017-09-25] [Python3中 global 和 nonlocal 的区别](devops/python/global-nonlocal.md)
 
-# Product
+## Java
+
+## Product
 
 [2017-09-25] [给“得到”App的一些产品建议](product/advice-for-dedao-app.md)
 
-# Misc
+## Study
+
+[2019-07-11] [得到课程：怎样成为精力管理的高手](study/dedao-how-to-manage-your-energy.md)
+
+<!-- [2019-07-11] [得到课程：梁宁-产品思维30讲](study/dedao-) -->
+
+## Misc
+
+[2019-08-07] [写给儿子的日记](misc/diaries-for-evan.md)
 
 [2017-11-07] [【转】如何写商业计划书(BP)](misc/how-to-write-bp.md)
 
@@ -66,9 +78,9 @@
 <!-- todo list
 [w3school](html/w3school.html)
 [一个纯软件开发者的硬件之路](product/software-to-hardware.md)
-[2018年阅读清单](education/books-read-in-2018.md)
+[2018年阅读清单](study/books-read-in-2018.md)
 [适合小团队的产品管理和研发流程]()
-[几款背单词App的比较](education/vocabulary-apps.md)
+[几款背单词App的比较](study/vocabulary-apps.md)
 [Python学习笔记 系列]()
 [程序员眼中的Scratch]()
 [程序员家长如何教小朋友用Scratch学编程]()

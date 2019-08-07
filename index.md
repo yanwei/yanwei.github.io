@@ -1,1 +1,3 @@
-{'code': 404, 'message': 'page not found'}
+# Error
+
+    {'code': 404, 'message': 'page not found'}

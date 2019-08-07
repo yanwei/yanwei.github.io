@@ -40,7 +40,7 @@
 
 ![有赞自定义收银台流程](有赞自定义收银台流程.png)
 
-## 参考文档：
+## 参考文档
 
 * 苹果官方文档：<https://developer.apple.com/cn/in-app-purchase/>
 * 有赞自定义收银台接口文档：<https://diy.youzanyun.com/extension-points/0>
