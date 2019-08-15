@@ -1,8 +1,8 @@
 # Diaries for Evan
 
-<style type="text/css">
-    p { word-wrap:break-word; }
-</style>
+code {
+  white-space : pre-wrap !important;
+}
 
 <!-- 
 我亲爱的儿子：
