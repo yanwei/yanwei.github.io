@@ -1,14 +1,5 @@
 # Diaries for Evan
 
-pre,code {
-  white-space:pre-wrap !important;
-  word-wrap:break-word !important;
-}
-
-```
-hi, this is a very long line. 你知道的，爸爸不喜欢和你聊学习，因为我觉得，你的学习已经够好的了。我更希望你学会玩，在玩耍中掌握课堂上学不到的东西，比如创造性、想象力、尊重、合作和礼仪。你知道的，爸爸不喜欢和你聊学习，因为我觉得，你的学习已经够好的了。我更希望你学会玩，在玩耍中掌握课堂上学不到的东西，比如创造性、想象力、尊重、合作和礼仪。
-```
-
 <!-- 
 我亲爱的儿子：
 
