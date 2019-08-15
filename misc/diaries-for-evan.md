@@ -1,9 +1,7 @@
 # Diaries for Evan
 
 <style type="text/css">
-    p {
-    white-space: pre-wrap;
-    }
+    p { word-wrap:break-word; }
 </style>
 
 <!-- 
