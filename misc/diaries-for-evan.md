@@ -1,10 +1,5 @@
 # Diaries for Evan
 
-.md:not(.use-csslab) pre code
- {
-  white-space: pre-wrap;
-}
-
 <!-- 
 我亲爱的儿子：
 
