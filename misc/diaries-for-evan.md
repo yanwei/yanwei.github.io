@@ -1,7 +1,7 @@
 # Diaries for Evan
 
 <style type="text/css">
-    .highlight pre{
+    p {
     white-space: pre-wrap;
     }
 </style>
