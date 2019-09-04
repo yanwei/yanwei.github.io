@@ -33,7 +33,7 @@
 
 [2017-11-01] [Mac上升级XCode后Clion项目编译失败](devops/clion-compile-error-on-mac.md)
 
-[2017-09-14] [科学上网指南-服务器篇](shadowsocks/shadowsocks-server.md)
+[2019-09-04] [科学上网指南-服务器篇](shadowsocks/shadowsocks-server.md)
 
 [2017-09-14] [科学上网指南-使用篇（客户端）](shadowsocks/shadowsocks-client.md)
 
