@@ -36,6 +36,8 @@
 
 * [VipCode试听课体验流程](study-of-vipcode-demo-class.md)
 
+[魔法字节](https://www.magicbyte.com)
+
 编程猫 **
 
 西瓜创客
