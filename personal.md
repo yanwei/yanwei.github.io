@@ -69,7 +69,7 @@
 
 ## Misc
 
-[2019-08-07] [写给儿子的日记](misc/diaries-for-evan.md)
+[2019-08-07] [写给儿子的日记](misc/letters-for-evan.md)
 
 [2017-11-07] [【转】如何写商业计划书(BP)](misc/how-to-write-bp.md)
 
