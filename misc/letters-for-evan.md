@@ -102,6 +102,7 @@ CS讲义：序言：大纲，主要内容，写作计划，研究方法等
 
 参考资料：
 * [马斯洛需求层次理论](https://baike.baidu.com/item/%E9%A9%AC%E6%96%AF%E6%B4%9B%E9%9C%80%E6%B1%82%E5%B1%82%E6%AC%A1%E7%90%86%E8%AE%BA)
+* [亚伯拉罕·马斯洛](https://baike.baidu.com/item/%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%C2%B7%E9%A9%AC%E6%96%AF%E6%B4%9B)
 
 爱你的爸爸
 
