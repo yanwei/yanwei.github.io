@@ -43,6 +43,8 @@
 
 ## Python
 
+[2020-10-28] [Python在线学习资料集合](devops/python/learning-resource.md)
+
 [2018-12-29] [Nginx + uWSGI + Flask + Python 简单上手指南](devops/python/nginx-uwsgi-flask-python.md)
 
 [2018-05-03] [pip3（v10.0.1）更新全部packages](devops/python/pip3-upgrade-all.md)
