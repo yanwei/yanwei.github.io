@@ -17,13 +17,13 @@
 ### 入门和环境设置
 
 * [“Windows 上的 Python”文档](https://docs.microsoft.com/zh-cn/windows/python/)
+* [资源1：Github / Getting started with Python](https://aka.ms/python-getting-started)
+* [资源2：Python 简介](https://docs.microsoft.com/zh-cn/learn/modules/intro-to-python/)
+* [Windows上用Python进行开发的资源合集](https://docs.microsoft.com/zh-cn/windows/python/resources)
 
 ### 第一个系列：适用于初学者的Python
 
 * [Channel 9: Python for Beginners](https://channel9.msdn.com/Series/Intro-to-Python-Development) | [B站地址](https://www.bilibili.com/video/BV187411f7z9?p=1)
-* [资源1：Github / Getting started with Python](https://aka.ms/python-getting-started)
-* [资源2：Python 简介](https://docs.microsoft.com/zh-cn/learn/modules/intro-to-python/)
-* [Windows上用Python进行开发的资源合集](https://docs.microsoft.com/zh-cn/windows/python/resources)
 
 ### 第二个系列：更多适用于初学者的Python
 
