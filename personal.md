@@ -19,6 +19,8 @@
 
 ## DevOps
 
+[2020-11-21] [玩转Windows 10 Linux子系统（WSL2）](devops/wsl2-on-windows-10.md)
+
 [2018-11-16] [解决iTerm2中git命令行显示中文的问题](devops/iterm2/iterm2-set-locale.md)
 
 [2018-11-10] [Mac上的brew和pip网络加速](devops/mac-network-speedup.md)
@@ -56,8 +58,6 @@
 [2017-09-27] [Python中的 try / except / else / finally 语句](devops/python/try-except-else-finally.md)
 
 [2017-09-25] [Python3中 global 和 nonlocal 的区别](devops/python/global-nonlocal.md)
-
-## Java
 
 ## Product
 

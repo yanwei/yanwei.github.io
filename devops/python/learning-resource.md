@@ -4,9 +4,13 @@
 
 <p align='right'>v1.0, Last Update: 2020.10.28</p>
 
-## [Python官网](https://www.python.org/)
+## Python官网
 
-## [Python集成环境Anaconda](https://www.anaconda.com/)
+[点此访问](https://www.python.org/)
+
+## Python集成环境Anaconda
+
+[点此访问](https://www.anaconda.com/)
 
 ## 微软官方出品
 
@@ -16,8 +20,10 @@
 
 ### 第一个系列：适用于初学者的Python
 
-* [Python for Beginners](https://channel9.msdn.com/Series/Intro-to-Python-Development)
-* [B站地址（中文字幕）](https://www.bilibili.com/video/BV187411f7z9?p=1)
+* [Channel 9: Python for Beginners](https://channel9.msdn.com/Series/Intro-to-Python-Development) | [B站地址](https://www.bilibili.com/video/BV187411f7z9?p=1)
+* [资源1：Github / Getting started with Python](https://aka.ms/python-getting-started)
+* [资源2：Python 简介](https://docs.microsoft.com/zh-cn/learn/modules/intro-to-python/)
+* [Windows上用Python进行开发的资源合集](https://docs.microsoft.com/zh-cn/windows/python/resources)
 
 ### 第二个系列：更多适用于初学者的Python
 
@@ -26,8 +32,6 @@
 ### 第三个系列：面向初学者的更多Python-数据工具
 
 * [Even More Python for Beginners - Data Tools](https://channel9.msdn.com/Series/Even-More-Python-for-Beginners-Data-Tools)
-
-### [代码地址](https://github.com/microsoft/c9-python-getting-started)
 
 ## 其他在线学习资源
 
