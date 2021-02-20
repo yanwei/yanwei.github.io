@@ -2,17 +2,21 @@
 
 <link rel="stylesheet" href="https://yanwei.github.io/auto-number-title.css" />
 
-<p align='right'>v1.0, Last Update: 2020.10.28</p>
+<p align='right'>v1.0, Last Update: 2021.2.20</p>
 
 ## Python官网
 
-[点此访问](https://www.python.org/)
+* [Python官方文档，永远是最好的教程](https://www.python.org/)
 
 ## Python集成环境Anaconda
 
-[点此访问](https://www.anaconda.com/)
+* [点此访问](https://www.anaconda.com/)
 
-## 微软官方出品
+## Google出品
+
+* [Google's Python Class](https://developers.google.com/edu/python/)
+
+## 微软出品
 
 ### 入门和环境设置
 
@@ -41,8 +45,15 @@
 * [w3school（英文）](https://www.w3schools.com/python/default.asp)
 * [w3school（中文）](https://www.w3school.com.cn/python/index.asp)
 * [SoloLearn](https://www.sololearn.com/Course/Python/)
+* [A Byte of Python（英文）](https://python.swaroopch.com/)
+* [Python简明教程（中文）](https://learnku.com/docs/byte-of-python/2018)
 
 ## 经验分享
 
 * [知乎：精心整理的一些 Python 学习资料](https://zhuanlan.zhihu.com/p/39187089)
 * [简书：整理的一些Python学习资料](https://www.jianshu.com/p/e9bb36a5d63f)
+
+## Python最佳实践指南
+
+* [Python最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/) ([Github](https://github.com/Prodesire/Python-Guide-CN))
+* [Hitchhiker's Guide to Python](https://docs.python-guide.org/) ([Github](https://github.com/realpython/python-guide))
