@@ -2,7 +2,7 @@
 
 <link rel="stylesheet" href="https://yanwei.github.io/auto-number-title.css" />
 
-<p align='right'>v1.0, Last Update: 2021.2.20</p>
+<p align='right'>v1.0, Last Update: 2021-02-20</p>
 
 ## Python官网
 
