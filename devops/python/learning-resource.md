@@ -37,6 +37,12 @@
 
 * [Even More Python for Beginners - Data Tools](https://channel9.msdn.com/Series/Even-More-Python-for-Beginners-Data-Tools)
 
+## 在线练习
+
+* https://edabit.com
+* https://codingbat.com/
+* http://www.pythonchallenge.com/
+
 ## 其他在线学习资源
 
 * [廖雪峰的Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400)
