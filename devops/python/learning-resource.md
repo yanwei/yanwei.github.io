@@ -39,9 +39,9 @@
 
 ## 在线练习
 
-* https://edabit.com
-* https://codingbat.com/
-* http://www.pythonchallenge.com/
+* [edabit.com](https://edabit.com)
+* [codingbat.com](https://codingbat.com/)
+* [pythonchallenge.com](http://www.pythonchallenge.com/)
 
 ## 其他在线学习资源
 
