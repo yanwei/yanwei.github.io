@@ -42,6 +42,7 @@
 * [edabit.com](https://edabit.com)
 * [codingbat.com](https://codingbat.com/)
 * [pythonchallenge.com](http://www.pythonchallenge.com/)
+* [codesignal.com](https://codesignal.com)
 
 ## 其他在线学习资源
 
