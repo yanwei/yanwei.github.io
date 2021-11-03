@@ -2,7 +2,7 @@
 
 <link rel="stylesheet" href="https://yanwei.github.io/auto-number-title.css" />
 
-<p align='right'>v1.0, Last Update: 2021-02-20</p>
+<p align='right'>v1.0, Last Update: 2021-11-03</p>
 
 ## Python官网
 
@@ -39,10 +39,12 @@
 
 ## 在线练习
 
+* [SoloLearn](https://www.sololearn.com/Course/Python/)
 * [edabit.com](https://edabit.com)
 * [codingbat.com](https://codingbat.com/)
 * [pythonchallenge.com](http://www.pythonchallenge.com/)
 * [codesignal.com](https://codesignal.com)
+* [Break The Ice With Python](https://github.com/darkprinx/break-the-ice-with-python)
 
 ## 其他在线学习资源
 
@@ -51,7 +53,6 @@
 * [慕课网](https://coding.imooc.com/?c=python)
 * [w3school（英文）](https://www.w3schools.com/python/default.asp)
 * [w3school（中文）](https://www.w3school.com.cn/python/index.asp)
-* [SoloLearn](https://www.sololearn.com/Course/Python/)
 * [A Byte of Python（英文）](https://python.swaroopch.com/)
 * [Python简明教程（中文）](https://learnku.com/docs/byte-of-python/2018)
 
