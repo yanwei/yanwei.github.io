@@ -55,6 +55,7 @@
 * [w3school（中文）](https://www.w3school.com.cn/python/index.asp)
 * [A Byte of Python（英文）](https://python.swaroopch.com/)
 * [Python简明教程（中文）](https://learnku.com/docs/byte-of-python/2018)
+* [Python简明教程（Github）](https://github.com/LenKiMo/byte-of-python)
 
 ## 经验分享
 
