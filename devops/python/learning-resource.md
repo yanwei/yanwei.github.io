@@ -7,6 +7,7 @@
 ## Python官网
 
 * [Python官方文档，永远是最好的教程](https://www.python.org/)
+* [推荐书籍](https://pythonbooks.org/)
 
 ## Python集成环境Anaconda
 
