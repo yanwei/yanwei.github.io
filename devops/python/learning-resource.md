@@ -46,6 +46,9 @@
 * [pythonchallenge.com](http://www.pythonchallenge.com/)
 * [codesignal.com](https://codesignal.com)
 * [Break The Ice With Python](https://github.com/darkprinx/break-the-ice-with-python)
+* [learnpython.org](https://www.learnpython.org/)
+* [datacamp](https://app.datacamp.com/learn)
+* [LearnX](https://www.learnx.org/)
 
 ## 其他在线学习资源
 
